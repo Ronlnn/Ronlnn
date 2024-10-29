@@ -12,7 +12,7 @@
 ---
 ### 📫 My contacts: 
 <div id="badges" align="left">
-  <a href="https://t.me/Ronlnn">
+  <a href="https://t.me/guinitum">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Teleram badge"/>
   </a>
   <a href="mailto:artking01kg@gmail.com">
